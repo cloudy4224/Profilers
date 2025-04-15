@@ -1,5 +1,5 @@
 pip3 install newrelic
-pip install ddtrace
-pip install apache-skywalking
-pip install elastic-apm
-
+pip install ddtrace             https://github.com/DataDog/dd-trace-py
+pip install apache-skywalking   https://github.com/apache/skywalking-python
+pip install elastic-apm         https://github.com/elastic/apm-agent-python
+pip install apm-client
