@@ -1,0 +1,5 @@
+pip3 install newrelic
+pip install ddtrace
+pip install apache-skywalking
+pip install elastic-apm
+
