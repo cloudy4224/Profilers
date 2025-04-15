@@ -4,3 +4,4 @@ pip install apache-skywalking   https://github.com/apache/skywalking-python
 pip install elastic-apm         https://github.com/elastic/apm-agent-python
 pip install apm-client
 pip install apmpython           # its about cpu and memory usage   
+pip install appoptics-apm       # https://pypi.org/project/appoptics-apm/ 08-2021
